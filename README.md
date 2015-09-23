@@ -3,9 +3,9 @@ ColorsOfTheWeb
 
 A tiny client for COLOURlovers.
 
-![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot1.png)
-![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot2.png)
-![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot3.png)
+![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot_1.png)
+![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot_2.png)
+![image](https://github.com/danielinoa/ColorsOfTheWeb/blob/master/Screenshots/Screenshot_3.png)
 
 Author
 ------
