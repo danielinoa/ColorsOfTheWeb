@@ -14,7 +14,6 @@
 @synthesize colorsArray, paletteTitle;
 
 - (void) viewDidLoad{
-
     self.title = paletteTitle;
     [self generateMosaicOn:self.view with:colorsArray];
 }
