@@ -36,7 +36,8 @@
                 w = w/2;
                 x += w;
             }
-            alt = arc4random_uniform(2); // or alternated with: alt = !alt;
+            //alt = arc4random_uniform(2); // or alternated with: alt = !alt;
+            alt = !alt;
             UIView *newView = [[UIView alloc] initWithFrame:viewRect];
             [newView setBackgroundColor:[UIColor colorWithHexString:[hexColorArray objectAtIndex:i]]];
             [view addSubview:newView];
